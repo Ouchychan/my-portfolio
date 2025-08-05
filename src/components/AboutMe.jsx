@@ -2,7 +2,7 @@ function AboutMe() {
   return (
     <section
       id="about"
-      className="flex flex-col items-center py-12 px-40 bg-gray-300 shadow-sm"
+      className="flex flex-col items-center py-12 px-20 lg:px-40 bg-gray-300 shadow-sm"
     >
       <h3 className="text-3xl font-bold mb-4">About Me</h3>
       <p className="text-black-800">

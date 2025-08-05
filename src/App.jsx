@@ -8,6 +8,7 @@ import Resume from "./components/Resume";
 import Contact from "./components/Contact";
 import Timeline from "./components/Timeline";
 import FAQ from "./components/FAQ";
+import ScrollToTop from "./components/ScrollToTop";
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
       <FAQ />
       <Contact />
       <Footer />
+      <ScrollToTop />
     </div>
   );
 }

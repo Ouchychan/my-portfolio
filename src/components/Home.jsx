@@ -1,6 +1,9 @@
 function Home() {
   return (
-    <section className="flex flex-col justify-center items-center px-4 bg-gray-100">
+    <section
+      id="home"
+      className="flex flex-col justify-center items-center px-4 bg-gray-100"
+    >
       <div className="bg-white px-8 py-12 my-30 rounded-lg border border-gray-200 shadow-sm">
         <h2 className="text-4xl text-center sm:text-5xl font-bold text-gray-900 mb-4">
           Hi, I'm Umi
