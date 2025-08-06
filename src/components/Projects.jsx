@@ -2,9 +2,9 @@ function Projects() {
   return (
     <section id="projects" className="py-16 px-8 bg-gray-300">
       <div className="max-w-7xl mx-auto">
-        <h3 className="text-3xl font-extrabold text-center mb-12">
+        <h2 className="text-3xl font-extrabold text-center mb-12">
           My Projects
-        </h3>
+        </h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Project Placeholder 1 */}
           <div className="bg-white border border-gray-200 p-6 rounded-lg shadow-sm text-center">

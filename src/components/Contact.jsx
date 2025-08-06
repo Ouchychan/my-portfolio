@@ -2,7 +2,7 @@ function Contact() {
   return (
     <section id="contact" className="py-16 px-8 bg-gray-300">
       <div className="max-w-xl mx-auto text-center">
-        <h3 className="text-3xl font-semibold mb-6">Contact</h3>
+        <h2 className="text-3xl font-extrabold mb-6">Contact</h2>
         <p className="text-gray-700 mb-4">
           Interested in my work or need my assistance? Reach out via any of the
           methods below.

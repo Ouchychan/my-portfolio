@@ -2,7 +2,7 @@ function Home() {
   return (
     <section
       id="home"
-      className="flex flex-col justify-center items-center px-4 bg-gray-100"
+      className="min-h-screen flex flex-col justify-center items-center text-center px-4 bg-gray-50"
     >
       <div className="bg-white px-8 py-12 my-30 rounded-lg border border-gray-200 shadow-sm">
         <h2 className="text-4xl text-center sm:text-5xl font-bold text-gray-900 mb-4">

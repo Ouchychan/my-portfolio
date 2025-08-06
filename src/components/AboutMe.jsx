@@ -4,7 +4,7 @@ function AboutMe() {
       id="about"
       className="flex flex-col items-center py-12 px-20 lg:px-40 bg-gray-300 shadow-sm"
     >
-      <h3 className="text-3xl font-bold mb-4">About Me</h3>
+      <h2 className="text-3xl font-bold mb-4">About Me</h2>
       <p className="text-black-800">
         I’m a fresh graduate software engineer with a strong passion for UI/UX
         and full stack web development. My main focus is on designing and
